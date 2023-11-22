@@ -1,2 +1,1 @@
-# kuroki00.github.com
-page
+Landing page
